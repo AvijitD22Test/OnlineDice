@@ -1,2 +1,2 @@
-Refresh To Roll Dices
+Refresh To Roll Dices.
 UI is not set for Mobile Size Screens 
