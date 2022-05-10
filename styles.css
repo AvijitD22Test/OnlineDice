@@ -1,0 +1,20 @@
+.bodyClass {
+    text-align: center;
+    background-color: #6D8B74;
+    color: aqua;
+}
+
+.winnerText {
+    font-size: 6rem;
+    font-family: 'Courgette', cursive;
+}
+
+.spanPName {
+    margin: 0 15% 0;
+    font-family: 'Courgette', cursive;
+    font-size: 1.5rem;
+}
+
+.diceImage{
+    margin: 4% 10% 0 10%;
+}
