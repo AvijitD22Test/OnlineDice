@@ -1,5 +1,5 @@
 function diceRoll(position) {
-    var formula = Math.round(Math.random() * 6 + 1);
+    var formula = Math.round(Math.random() * 6);
     if (formula == 1) {
         document.querySelectorAll("img")[position].setAttribute("src", "./images/dice1.png");
         return 1;
